@@ -1,0 +1,80 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173.46 171.5" data-name="Слой 2" id="_Слой_2">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-2, .cls-9, .cls-10, .cls-11 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke: #29265b;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 10.31px;
+      }
+
+      .cls-4 {
+        stroke: #83378d;
+      }
+
+      .cls-5 {
+        stroke: #e6164b;
+      }
+
+      .cls-6 {
+        stroke: #3eab37;
+      }
+
+      .cls-7 {
+        stroke: #2093d2;
+      }
+
+      .cls-8 {
+        stroke: #946137;
+        stroke-dasharray: 0 0 23.39 7.8;
+        stroke-miterlimit: 1;
+      }
+
+      .cls-9 {
+        fill: #f8f3b3;
+      }
+
+      .cls-10 {
+        fill: #29265b;
+      }
+
+      .cls-11 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect ry="11.44" rx="11.44" height="155.91" width="155.9" y="7.71" x="7.82" class="cls-2"/>
+    </clipPath>
+  </defs>
+  <g data-name="Слой 1" id="_Слой_1-2">
+    <g class="cls-1">
+      <rect height="171.5" width="171.5" class="cls-9"/>
+      <line y2="106.88" x2="107.73" y1="166.82" x1="167.67" class="cls-8"/>
+      <line y2="85.75" x2="1.7" y1="85.75" x1="54.64" class="cls-4"/>
+      <line y2="116.85" x2="85.75" y1="170.72" x1="85.75" class="cls-5"/>
+      <line y2=".78" x2="85.75" y1="54.64" x1="85.75" class="cls-6"/>
+      <line y2="85.75" x2="116.85" y1="85.75" x1="173.46" class="cls-7"/>
+      <path d="M54.45,85.75c0-17.23,13.97-31.2,31.2-31.2s31.2,13.97,31.2,31.2-13.97,31.2-31.2,31.2-31.2-13.97-31.2-31.2" class="cls-11"/>
+      <circle r="31.2" cy="85.75" cx="85.65" class="cls-3"/>
+      <path d="M80.28,78.89l-.23,4.79v4.39h-5.51l5.71-9.17h.03ZM84.21,91.89h2.14v-3.99h-2.14v-14.52h-5.12l-10.13,16.37v2.14h10.79v4.59h4.46v-4.59Z" class="cls-10"/>
+      <polygon points="89.75 88.88 94.04 88.88 94.04 93.14 97.87 93.14 97.87 88.88 102.19 88.88 102.19 85.09 97.87 85.09 97.87 80.87 94.04 80.87 94.04 85.09 89.75 85.09 89.75 88.88" class="cls-10"/>
+    </g>
+  </g>
+</svg>
